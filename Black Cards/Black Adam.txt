@@ -1,0 +1,9 @@
+LINES=1
+TITLE="Black Adam"
+YEAR="2022"
+NOTES="moderate violence, threat, horror, injury detail"
+RATING="12A"
+BBFCref="English"
+TMDBID="436270"
+Classified_Date="29/09/2022"
+Release_Date="2022-10-19"
